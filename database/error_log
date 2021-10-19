@@ -1,0 +1,129 @@
+[10-May-2020 15:46:31 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:46:31 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:46:31 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 15:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 15:47:27 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:47:27 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:47:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 15:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 15:47:39 UTC] PHP Warning:  include_once(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[10-May-2020 15:47:39 UTC] PHP Warning:  include_once(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[10-May-2020 15:47:39 UTC] PHP Notice:  Array to string conversion in /home/birbalbo/public_html/database/startSession.PHP on line 27
+[10-May-2020 15:47:58 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:47:58 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:47:58 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 15:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 15:47:58 UTC] PHP Warning:  include_once(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[10-May-2020 15:47:58 UTC] PHP Warning:  include_once(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[10-May-2020 15:47:58 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/startSession.PHP on line 9
+[10-May-2020 15:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/startSession.PHP:9
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/startSession.PHP on line 9
+[10-May-2020 15:59:16 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:59:16 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 15:59:16 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 15:59:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 16:00:50 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 16:00:50 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 16:00:50 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 16:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 16:11:11 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 16:11:11 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 16:11:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 16:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:49:29 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:49:29 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:49:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:49:43 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:49:43 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:49:43 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:55:13 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:55:13 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:55:13 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:59:55 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:59:55 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 19:59:55 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 19:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:01:21 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:01:21 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:01:21 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:01:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:12:15 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:12:15 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:12:15 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:12:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:13:17 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:13:17 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:13:17 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:15:22 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:15:22 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:15:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:15:35 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:15:35 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/fetchQuery.PHP on line 2
+[10-May-2020 20:15:35 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[10-May-2020 20:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/fetchQuery.PHP:4
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/fetchQuery.PHP on line 4
+[11-May-2020 15:32:58 UTC] PHP Warning:  include_once(database/Database.PHP): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[11-May-2020 15:32:58 UTC] PHP Warning:  include_once(): Failed opening 'database/Database.PHP' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[11-May-2020 15:32:58 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/startSession.PHP on line 9
+[11-May-2020 15:32:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/startSession.PHP:9
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/startSession.PHP on line 9
+[11-May-2020 15:33:32 UTC] PHP Warning:  include_once(database/Database.PHP): failed to open stream: No such file or directory in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[11-May-2020 15:33:32 UTC] PHP Warning:  include_once(): Failed opening 'database/Database.PHP' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/birbalbo/public_html/database/startSession.PHP on line 3
+[11-May-2020 15:33:32 UTC] PHP Notice:  Undefined variable: mysqli in /home/birbalbo/public_html/database/startSession.PHP on line 9
+[11-May-2020 15:33:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/birbalbo/public_html/database/startSession.PHP:9
+Stack trace:
+#0 {main}
+  thrown in /home/birbalbo/public_html/database/startSession.PHP on line 9

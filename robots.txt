@@ -1,0 +1,26 @@
+User-Agent: *
+Disallow: /cpanel_createdb.php
+Disallow: /portfolio-classic.html
+Disallow: /startSession.PHP
+Disallow: /thankyou.php
+Disallow: /verify.php
+Disallow: /xmlapi.php
+
+Allow: /about.html
+Allow: /buy.php
+Allow: /confirmRecovery.php
+Allow: /contact.php
+Allow: /faq.html
+Allow: /formulla.html
+Allow: /index.html
+Allow: /pricing.html
+Allow: /signup-demo-package.php
+Allow: /sitemap.xml
+Allow: /Accounting-software.html
+Allow: /bookkeeping-services.html
+Allow: /blog/birbalsblog.html
+Allow: /blog/How-Pakistani-businesses-survived-during-coronavirus-lockdown.html
+Allow: /blog/modern-day-bookkeeping.html
+Allow: /blog/best-bank-in-pakistan.html
+
+
